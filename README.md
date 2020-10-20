@@ -3,13 +3,8 @@
 ## **Abstract**
 ### **What we do?**
 + 학생들의 수학 질문에 답변해 주는 **질의응답시스템**을 구축합니다. 
-### **Why we do?**
-+ 수학이라는 도메인이 주는 **엄밀함** 때문에 적절하고 효율 높은 질의응답 시스템을 구축하기 위해서는 도메인에 Specific한 접근이 필요합니다.
-+ **수학지식DB와 논리식 설계**를 담당하는 팀에 내에서 유연하고 상세한 설계가 가능합니다.
-+ 수학지식DB의 **사용자 입장**에서 DB개발의 필요사항을 파악할 수 있습니다. 
-+ 그리하여!! 2-1팀에 수학QNA파트를 설립하여 개발하여 되었습니다.
 ### **How we do?**
-+ 추론엔진은 아래의 모듈로 구성되어 있습니다. 
++ 수학지식 QNA service는 아래의 모듈로 구성되어 있습니다.
 
 	+ **Entity extractor module**
 		+ UK, Component, Attribute, Expression, Keyword 를 추출
@@ -60,10 +55,6 @@ $ python main.py --client_type="admin_page" # Or "discord"
 ---
 
 ## **Etc**
-### **개발 계획**
-+ [1차 PoC](doc/poc1.md)(~7.08)
-+ [2차 PoC](doc/poc2.md)(7.10~7.31)
-+ 3차 PoC(8.01~?)
 ### **Issue**
 + 디스코드 패키지는 최신버전을 써야합니다. 
 ### **Module 사용법** 
