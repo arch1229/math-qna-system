@@ -1,0 +1,53 @@
+- 2차 PoC Plan- 2차 PoC Plan(7.10~7.31)
+	- Task
+		- 질의 Intent 추가 
+			- 일차식이면서 방정식이면 뭐라고 하나요? ( 논리적 Merge )
+				- ex)일차방정식 입니다.
+			- 방정식 중에서 해가 없는 경우를 뭐라고 하나요? ( 키워드 탐색 )
+ 				- ex) 방정식의 불능이라고 합니다.		
+ 			- Component 추가하기 - 윤
+		- nl2query 모듈화 ( entity_parser, intent_classifier ) - 윤
+		- Mecab 사전 업데이트 - 윤
+		- 티키타가 
+		- entity, intent 수준에서 - 윤
+		- 답변이 완료된 상태에서 - ?
+		- 108가지 번뇌에 대한 세부 명세 - 윤
+		- NLG모듈 - 서
+		- 경직된 버전
+		- 유연한 버전
+		- 문자와 식의 Logic - 정
+		- expr_type_checker를 sympy로 구현하기(오른쪽으로 갈수록 작은 집합 리스트) - 정
+		- 디비 쿼리 엔진 만들기 - 전
+		- admin 페이지에 올리기 - 전
+		- sequence output gernerate
+		- logic - 정
+		- implication - 전
+		- action - 전
+		- 본부장님 최대한 빨리 지금 당장 만나기 - 올
+		- 그것을 위한 자료 정리
+	- Task
+		- 질의 Intent 추가 
+			- 일차식이면서 방정식이면 뭐라고 하나요? ( 논리적 Merge )
+				- ex)일차방정식 입니다.
+			- 방정식 중에서 해가 없는 경우를 뭐라고 하나요? ( 키워드 탐색 )
+ 				- ex) 방정식의 불능이라고 합니다.		
+ 			- Component 추가하기 - 윤
+		- nl2query 모듈화 ( entity_parser, intent_classifier ) - 윤
+		- Mecab 사전 업데이트 - 윤
+		- 티키타가 
+		- entity, intent 수준에서 - 윤
+		- 답변이 완료된 상태에서 - ?
+		- 108가지 번뇌에 대한 세부 명세 - 윤
+		- NLG모듈 - 서
+		- 경직된 버전
+		- 유연한 버전
+		- 문자와 식의 Logic - 정
+		- expr_type_checker를 sympy로 구현하기(오른쪽으로 갈수록 작은 집합 리스트) - 정
+		- 디비 쿼리 엔진 만들기 - 전
+		- admin 페이지에 올리기 - 전
+		- sequence output gernerate
+		- logic - 정
+		- implication - 전
+		- action - 전
+		- 본부장님 최대한 빨리 지금 당장 만나기 - 올
+		- 그것을 위한 자료 정리

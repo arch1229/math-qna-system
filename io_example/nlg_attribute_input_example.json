@@ -1,0 +1,19 @@
+{
+    "entity_intent " : {
+        "query_type":"attribute",
+        "element": [
+            {
+                "type":"unit_knowledge",
+                "data":"방정식"
+            },
+            {
+                "type":"attribute",
+                "data":"정의"
+            }
+        ]
+    },
+    "output" : [{
+        "result_type" : "inference_success",
+        "message" : "$x$의 값에 따라 참이 되기도 하고 거짓이 되기도 하는 등식을 $x$에 대한 방정식이라 하며, 이때 $x$를 미지수라 합니다."
+    }]
+}    

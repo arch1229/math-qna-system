@@ -1,0 +1,15 @@
+{
+	"DISCORD" : {
+		"TOKEN" : "your_token"
+	},
+	"HTTP_CLIENT":{
+		"URL": "/webhooks/rest/webhook",
+		"PORT":5005
+	},
+	"CAS":{
+		"URL":"https://fakecas.tmax.com"
+	},
+	"DB":{
+		"URL":"db.json"
+	}
+}

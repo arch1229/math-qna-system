@@ -1,0 +1,7 @@
+sympy==1.6
+mpmath==1.1.0
+discord>=1.0.1
+antlr4-python3-runtime==4.7.1
+flask==1.1.2
+flask-restful==0.3.8
+mecab-python3==1.0.0

@@ -1,0 +1,81 @@
+{
+    "query_type":"action",
+    "element":[
+        {
+            "type":"unit_knowledge",
+            "data":"대입"
+        },
+        {
+            "type":"expression",
+            "data": {
+                "expr": "2*x+-1*y+4",
+                "expr_type": "finite_addition",
+                "expr_n": 3,
+                "expr_elem": [
+                    {
+                        "expr": "2*x",
+                        "expr_type": "finite_product",
+                        "expr_n": 2,
+                        "expr_elem": [
+                            {
+                                "expr": "2",
+                                "expr_type": "constant",
+                                "expr_n": 1,
+                                "expr_elem": []
+                            },
+                            {
+                                "expr": "x",
+                                "expr_type": "variable",
+                                "expr_n": 1,
+                                "expr_elem": []
+                            }
+                        ]
+                    },
+                    {
+                        "expr": "-1*y",
+                        "expr_type": "finite_product",
+                        "expr_n": 2,
+                        "expr_elem": [
+                            {
+                                "expr": "-1",
+                                "expr_type": "constant",
+                                "expr_n": 1,
+                                "expr_elem": []
+                            },
+                            {
+                                "expr": "y",
+                                "expr_type": "variable",
+                                "expr_n": 1,
+                                "expr_elem": []
+                            }
+                        ]
+                    },
+                    {
+                        "expr": "4",
+                        "expr_type": "constant",
+                        "expr_n": 1,
+                        "expr_elem": []
+                    }
+                ]
+            }
+        },
+        {
+            "type":"expression",
+            "data":{
+                "expr": "x",
+                "expr_type": "variable",
+                "expr_n": 1,
+                "expr_elem": []
+            }
+        },
+        {
+            "type":"expression",
+            "data":{
+                "expr": "3",
+                "expr_type": "constant",
+                "expr_n": 1,
+                "expr_elem": []
+            }
+        }        
+    ]
+}

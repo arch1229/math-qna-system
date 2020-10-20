@@ -1,0 +1,14 @@
+{
+
+    "query_type":"component",
+    "element": [
+        {
+            "type":"unit_knowledge",
+            "data":"등식"
+        },
+        {
+            "type":"component",
+            "data":"성질"
+        }
+    ]
+}

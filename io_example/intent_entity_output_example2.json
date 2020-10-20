@@ -1,0 +1,13 @@
+{
+    "query_type":"implication",
+    "element": [
+        {
+            "type":"unit_knowledge",
+            "data":"등식"
+        },
+        {
+            "type":"unit_knowledge",
+            "data":"방정식"
+        }
+    ]
+}

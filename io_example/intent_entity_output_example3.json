@@ -1,0 +1,19 @@
+{
+
+    "query_type": "logic",
+    "element": [
+        {
+            "type": "unit_knowledge",
+            "data": "상수항"
+        },
+        {
+            "type": "expression",
+            "data": {
+                "expr": "0",
+                "expr_type": "constant",
+                "expr_n": 1,
+                "expr_elem": "0"
+            }
+        }
+    ]
+}
