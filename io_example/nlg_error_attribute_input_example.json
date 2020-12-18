@@ -1,0 +1,13 @@
+{
+    "intent_type": "error",
+    "element": {
+        "main": {
+            "type": "error_attribute",
+            "data": "2개 이상의 속성을 동시에 물어보셨습니다. 하나만 물어봐주시길 바랍니다. 예) {}의 {} 알려줘."
+        },
+        "sub": {},
+        "main_expression": {},
+        "variable": {},
+        "value": {}
+    }
+}

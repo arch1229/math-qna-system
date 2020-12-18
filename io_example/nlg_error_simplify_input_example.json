@@ -1,0 +1,13 @@
+{
+    "intent_type": "error",
+    "element": {
+        "main": {
+            "type": "error_simplify",
+            "data": "{}을 간단히 할까요? "
+        },
+        "sub": {},
+        "main_expression": {},
+        "variable": {},
+        "value": {}
+    }
+}

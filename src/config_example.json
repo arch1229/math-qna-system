@@ -1,0 +1,17 @@
+{
+	"BOT" : {
+		"DISCORD" : {
+			"TOKEN" : "dddddddvu21IdmzX05Iej4Z4hS7xhFp8_o"
+		},
+		"HTTP_CLIENT":{
+			"URI": "/qna",
+			"PORT":1234
+		}
+	},
+	"CAS":{
+		"URI":"https://fakecas.tmax.com"
+	},
+	"KDB":{
+		"URI":"db.json"
+	}
+}

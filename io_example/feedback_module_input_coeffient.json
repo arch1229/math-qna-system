@@ -1,22 +1,26 @@
 {
-
+    "type" : "elements_type_error",
+    "what" : "variable",
+    "why" : "none",
+    "from" : "response_generator",
+    "reference" : {},
+    "not_yet": "wait_please"
+},
+"question" : {
     "intent_type":"expression_reasoning",
     "element": 
         {
             "main" : {
                 "type": "unit_knowledge",
-                "data": "계수"
-                
+                "data": "계수"              
             },
             "sub" : {},
             "main_expression" : {
                 "type": "expression",
                 "data": "2x-y-4"
             },
-            "variable" : {
-                "type": "expression",
-                "data": "x"
-            },
+            "variable" : {},
             "value" : {}
         }
+    }
 }

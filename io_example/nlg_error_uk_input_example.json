@@ -1,0 +1,13 @@
+{
+    "intent_type": "error",
+    "element": {
+        "main": {
+            "type": "error_uk",
+            "data": "3개 이상의 단위지식을 동시에 물어보셨습니다. 하나의 단위지식 또는 2개의 단위지식의 관계로 다시 질문해주시길 바랍니다. 예) {}도 {}에 포함 되나요?"
+        },
+        "sub": {},
+        "main_expression": {},
+        "variable": {},
+        "value": {}
+    }
+}

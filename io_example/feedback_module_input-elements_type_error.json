@@ -1,0 +1,38 @@
+{
+    "type" : "elements_type_error",
+    "what" : "variable",
+    "why" : "none",
+    "from" : "response_generator",
+    "reference" : {
+                  "count" : 2,
+                  "data": [
+                      {
+                      "key_name" : "main_expression",
+                      "value_type" : "expression",
+                      "data_type" : "unique"
+                      },
+                      {
+                      "key_name" : "variable",
+                      "value_type" : "character",
+                      "data_type" : "set"
+                      }
+                  ]
+    "question" : {
+        "intent_type":"expression_reasoning",
+        "element": 
+            {
+                "main" : {
+                    "type": "unit_knowledge",
+                    "data": "계수"              
+                },
+                "sub" : {},
+                "main_expression" : {
+                    "type": "expression",
+                    "data": "2x-y-4"
+                },
+                "variable" : {},
+                "value" : {}
+            }
+      }
+  }
+}

@@ -1,14 +1,19 @@
 {
 
-    "query_type":"component",
-    "element": [
+    "intent_type":"uk_component",
+    "element": 
         {
-            "type":"unit_knowledge",
-            "data":"등식"
-        },
-        {
-            "type":"component",
-            "data":"성질"
+            "main" : {
+                "type":"unit_knowledge",
+                "data":"등식"
+                
+            },
+            "sub" : {
+                "type":"component",
+                "data":"성질"
+            },
+            "main_expression" : {},
+            "variable" : {},
+            "value" : {}
         }
-    ]
 }
